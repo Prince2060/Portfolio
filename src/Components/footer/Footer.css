@@ -1,0 +1,59 @@
+.footer{
+    width: 100%;
+    margin: auto;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    margin-top: 40px;
+}
+.doandlorem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding: 20px;
+   margin: 0px 60px;
+   gap: 150px;
+}
+.do{
+font-size: 50px;
+}
+.lorem20{
+    font-size: 20px;
+}
+.footerbut{
+    display: flex;
+    gap: 5px;
+    background-color: blueviolet;
+    color: white;
+    width: 200px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+   border-radius: 8px;
+   margin-left: 170px;
+}
+.footerbut:hover{
+    cursor: pointer;
+}
+.followandlogos{
+    display: flex;
+    align-items: center;
+  gap: 30px; 
+   
+}
+.butandlorem{
+    display: flex;
+    justify-content: space-between;
+}
+.followmeicons1{
+    display: flex;
+    margin-right: 270px;
+  font-size: 30px;
+  gap: 60px;
+}
+.aboutservices{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+ padding: 40px;
+}

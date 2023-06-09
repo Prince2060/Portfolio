@@ -1,0 +1,120 @@
+.body4{
+    width: 70%;
+    margin: auto;
+    /* background-color: red; */
+    font-weight: 600;
+}
+.buttonsproject{
+display: flex;
+gap: 10px;
+}
+.projectandbuttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+}
+.but1{
+   background-color: white;
+   width: 40px;
+   height: 30px;
+   border-radius: 5px;
+   border: 1px solid black;
+}
+.but2{
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.project{
+    font-size: 25px;
+}
+.but1:hover,.but2:hover{
+    background-color:blueviolet ;
+    color: white;
+}
+.threeimages{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+.imagebox{
+    height: 200px;
+    width: 400px;
+    background-color: rgba(233, 183, 18, 0.616);
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+}
+.images1{
+    height: 200px;
+    width: 400px; 
+    border-radius: 8px;
+}
+.imagebox1{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(232, 192, 255);
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+}
+.imagebox2{
+    height: 200px;
+    width: 400px;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+}
+.threeimage1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.imagebox3{
+    height: 200px;
+    width: 400px;
+    background-color: greenyellow;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+}
+.imagebox4{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(58, 5, 58);
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+}
+.imagebox5{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(17, 13, 228);
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+}
+.lastbutton{
+    margin: 30px 45%;
+}
+.lastbut{
+    width: 180px;
+    height: 40px;
+    border: none;
+    border-radius: 8px;
+    background-color: blueviolet;
+    color: white;
+}
+.lastbut:hover{
+    cursor: pointer;
+}
+.images1:hover{
+    scale: 110%;
+    cursor: pointer;
+    transition-duration: 300ms;
+}
