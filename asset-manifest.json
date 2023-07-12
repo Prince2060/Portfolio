@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.cf7cb626.css",
-    "main.js": "/Portfolio/static/js/main.31ef982e.js",
+    "main.js": "/Portfolio/static/js/main.9f63142d.js",
     "static/js/787.e8a6793c.chunk.js": "/Portfolio/static/js/787.e8a6793c.chunk.js",
+    "static/media/valorant.png": "/Portfolio/static/media/valorant.412c3ed7f5e242e8280a.png",
     "static/media/figma.png": "/Portfolio/static/media/figma.69557a6cc049d7cdd34f.png",
     "static/media/kplc.png": "/Portfolio/static/media/kplc.57becf8763393f8e3737.png",
     "static/media/muhib.png": "/Portfolio/static/media/muhib.867021ee7c8637525857.png",
@@ -11,14 +12,16 @@
     "static/media/dashboard.png": "/Portfolio/static/media/dashboard.5cb1e8a65067fee405df.png",
     "static/media/map.png": "/Portfolio/static/media/map.2863c02fb82843612a1f.png",
     "static/media/prince1.jpg": "/Portfolio/static/media/prince1.e549c28abdd64c218a14.jpg",
+    "static/media/youtube.png": "/Portfolio/static/media/youtube.1191a550f42bc4a3d1a8.png",
+    "static/media/netflix.png": "/Portfolio/static/media/netflix.05c39b50fd6e4c596062.png",
     "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Portfolio/index.html",
     "main.cf7cb626.css.map": "/Portfolio/static/css/main.cf7cb626.css.map",
-    "main.31ef982e.js.map": "/Portfolio/static/js/main.31ef982e.js.map",
+    "main.9f63142d.js.map": "/Portfolio/static/js/main.9f63142d.js.map",
     "787.e8a6793c.chunk.js.map": "/Portfolio/static/js/787.e8a6793c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf7cb626.css",
-    "static/js/main.31ef982e.js"
+    "static/js/main.9f63142d.js"
   ]
 }
