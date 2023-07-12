@@ -6,6 +6,9 @@ import jobsearch from '../images/jobsearch.png'
 import kplc from '../images/kplc.png'
 import muhib from '../images/muhib.png'
 import ppd from '../images/ppd.png'
+import netflix from '../images/netflix.png'
+import youtube from '../images/youtube.png'
+import valorant from '../images/valorant.png'
 function body4() {
   return (
     <div className='body4'>
@@ -43,6 +46,19 @@ function body4() {
         </div>
         <div className='imagebox5'>
         <img src={ppd} className='images1'/>
+        </div>
+      </div>
+      <div className='threeimage1'>
+        <div className='imagebox3'>
+        <img src={netflix} className='images1'/>
+        </div>
+        <div className='imagebox4'>
+        <img src={youtube} className='images1'/>
+        </div>
+        <div className='imagebox5'>
+          <a href="https://prince2060.github.io/valorant/">
+          <img src={valorant} className='images1'/>
+          </a>
         </div>
       </div>
       <div className='lastbutton'>
